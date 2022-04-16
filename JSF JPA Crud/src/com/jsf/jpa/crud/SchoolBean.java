@@ -33,6 +33,8 @@ public class SchoolBean {
 	}
 
 	public String getEditSchoolId() {
+		if(editSchoolId == null)
+			return null;
 		return editSchoolId;
 	}
 
