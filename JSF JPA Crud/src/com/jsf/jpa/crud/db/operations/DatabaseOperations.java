@@ -17,7 +17,7 @@ public class DatabaseOperations {
 	private static final String PERSISTENCE_UNIT_NAME = "JSFJPACrud";	
 	private static EntityManager entityMgrObj = Persistence.createEntityManagerFactory(PERSISTENCE_UNIT_NAME).createEntityManager();
 	private static EntityTransaction transactionObj = entityMgrObj.getTransaction();
-    private String url=null;
+
 	// Method To Fetch All School Details From The Database
 	@SuppressWarnings("unchecked")
 	public static List<SchoolBean> getAllSchoolDetails() {
