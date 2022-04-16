@@ -17,4 +17,5 @@ INSERT INTO school (id, name) VALUES (2, "Amity International");
 INSERT INTO school (id, name) VALUES (3, "Kamal Public School");
 INSERT INTO school (id, name) VALUES (4, "DAV Public School");
 INSERT INTO school (id, name) VALUES (5, "Ryan International");
-INSERT INTO school (id, name) VALUES (6, "BYU International");
+INSERT INTO school (id, name) VALUES (6, "BYU International University");
+INSERT INTO school (id, name) VALUES (7, "YALE");
