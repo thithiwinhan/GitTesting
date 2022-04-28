@@ -26,6 +26,7 @@ INSERT INTO school (id, name) VALUES (11, "ygn");
 INSERT INTO school (id, name) VALUES (12, "MyitKyinar");
 INSERT INTO school (id, name) VALUES (13, "KantharYar");
 INSERT INTO school (id, name) VALUES (13, "pha an");
+INSERT INTO school (id, name) VALUES (14, "sat se");
 
 
 
