@@ -23,5 +23,7 @@ INSERT INTO school (id, name) VALUES (8, "NUS ADDBY A");
 INSERT INTO school (id, name) VALUES (9, "MIT A");
 INSERT INTO school (id, name) VALUES (10, "GREENWICH ADDBY A");
 INSERT INTO school (id, name) VALUES (11, "ygn");
-INSERT INTO school (id, name) VALUES (11, "mdy");
+INSERT INTO school (id, name) VALUES (12, "MyitKyinar");
+INSERT INTO school (id, name) VALUES (13, "KantharYar");
+
 
