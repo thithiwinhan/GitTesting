@@ -28,6 +28,4 @@ INSERT INTO school (id, name) VALUES (13, "KantharYar");
 INSERT INTO school (id, name) VALUES (13, "pha an");
 INSERT INTO school (id, name) VALUES (14, "sat se");
 INSERT INTO school (id, name) VALUES (14, "ngwe saung");
-
-
-
+INSERT INTO school (id, name) VALUES (14, "chaung thar");
